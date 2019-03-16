@@ -7,5 +7,5 @@ Internet Explorer or Google Chrome
 Getting Started
 Open your desired browser and navigate to the Index file and then double click on the Index file to run it.
 
-Authors
+Author
 Sulman Malik
